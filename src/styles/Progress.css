@@ -1,0 +1,10 @@
+.progress-done {
+  appearance: none;
+  background-color: slateblue;
+  bottom: 0;
+  color: #f6f6f3;
+  height: 50px;
+  margin: auto;
+  position: fixed;
+  width: 100%;
+}
